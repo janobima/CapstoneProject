@@ -14,7 +14,7 @@ This repository contains the implementation code for my capstone project in pyth
 
 ## Notes
 
-- Scripts correspond to experiments discussed in the paper
+- Scripts correspond to experiments discussed in the report
 - Each file contains a header explaining its purpose
 
 ## Author
